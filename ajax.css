@@ -1,0 +1,16 @@
+#such{
+	background-color:red;
+	border:solid 1px red;
+	height:200px;
+	width:300px;
+}
+.box{
+	height:500px;
+	width:500px;
+	border: solid 1px red;
+	background: pink;
+}
+body{
+	background:#C88EA7;
+
+}
